@@ -1,0 +1,1 @@
+INFO     Test_user_study:test_user_study.py:102 成功退出登录!{'ok': True}

@@ -1,0 +1,92 @@
+{
+  "uid" : "eb2b5fe73c7af6f",
+  "name" : "test_get_modules",
+  "fullName" : "testcase.user.test_user_study.Test_user_study#test_get_modules",
+  "historyId" : "3dd04aaab3e6b06e8d6c83105a666584",
+  "time" : {
+    "start" : 1586786188109,
+    "stop" : 1586786188162,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1586786187516,
+      "stop" : 1586786187620,
+      "duration" : 104
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4ef25dc67c27399b",
+      "name" : "log",
+      "source" : "4ef25dc67c27399b.txt",
+      "type" : "text/plain",
+      "size" : 834
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "获取菜单"
+  }, {
+    "name" : "feature",
+    "value" : "课程学习"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.user"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_study"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_user_study"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3BKS4R6"
+  }, {
+    "name" : "thread",
+    "value" : "11752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.user.test_user_study"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb2b5fe73c7af6f.json",
+  "parameterValues" : [ ]
+}

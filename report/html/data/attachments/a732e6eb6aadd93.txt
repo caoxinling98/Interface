@@ -1,0 +1,1 @@
+ERROR    Test_user_study:test_user_study.py:83 失败记录时间:{'ok': False, 'code': 500, 'message': "error:ER_BAD_NULL_ERROR: Column 'beginAt' cannot be null"}

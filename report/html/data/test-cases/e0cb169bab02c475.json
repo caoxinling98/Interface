@@ -1,0 +1,92 @@
+{
+  "uid" : "e0cb169bab02c475",
+  "name" : "test_get_chapterDetail",
+  "fullName" : "testcase.user.test_user_study.Test_user_study#test_get_chapterDetail",
+  "historyId" : "6d15446b31b3db045b7a808ee34e16c7",
+  "time" : {
+    "start" : 1586786188277,
+    "stop" : 1586786188395,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1586786187516,
+      "stop" : 1586786187620,
+      "duration" : 104
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9c265a5365ea4926",
+      "name" : "log",
+      "source" : "9c265a5365ea4926.txt",
+      "type" : "text/plain",
+      "size" : 139488
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "获取课程章节"
+  }, {
+    "name" : "feature",
+    "value" : "课程学习"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.user"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_study"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_user_study"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3BKS4R6"
+  }, {
+    "name" : "thread",
+    "value" : "11752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.user.test_user_study"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0cb169bab02c475.json",
+  "parameterValues" : [ ]
+}

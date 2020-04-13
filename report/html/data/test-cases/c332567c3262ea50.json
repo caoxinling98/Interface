@@ -1,0 +1,92 @@
+{
+  "uid" : "c332567c3262ea50",
+  "name" : "test_login_fail",
+  "fullName" : "testcase.sys.test_sys_login.Test_login#test_login_fail",
+  "historyId" : "0ca750f75a1dc3ad379bebe441d71d83",
+  "time" : {
+    "start" : 1586786187644,
+    "stop" : 1586786187705,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1586786187516,
+      "stop" : 1586786187620,
+      "duration" : 104
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "209743473e5f1c4a",
+      "name" : "log",
+      "source" : "209743473e5f1c4a.txt",
+      "type" : "text/plain",
+      "size" : 122
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录失败"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.sys"
+  }, {
+    "name" : "suite",
+    "value" : "test_sys_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3BKS4R6"
+  }, {
+    "name" : "thread",
+    "value" : "11752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.sys.test_sys_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c332567c3262ea50.json",
+  "parameterValues" : [ ]
+}

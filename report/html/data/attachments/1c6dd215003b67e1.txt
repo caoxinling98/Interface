@@ -1,0 +1,1 @@
+INFO     Test_user_study:test_user_study.py:33 获取课程角色{'ok': True, 'data': {'userRole': 'owner'}}

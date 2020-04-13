@@ -1,0 +1,1 @@
+2020-04-13 15:37:09,943 - Test_user_study - ERROR - Ê§°Ü¼ÇÂ¼Ê±¼ä:{'ok': False, 'code': 500, 'message': "error:ER_BAD_NULL_ERROR: Column 'beginAt' cannot be null"}

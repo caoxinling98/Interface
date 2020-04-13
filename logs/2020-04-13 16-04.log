@@ -1,0 +1,2 @@
+2020-04-13 16:04:04,335 - Test_user_study - ERROR - 失败记录时间:{'ok': False, 'code': 500, 'message': "error:ER_BAD_NULL_ERROR: Column 'beginAt' cannot be null"}
+2020-04-13 16:04:16,805 - Test_user_study - ERROR - 失败记录时间:{'ok': False, 'code': 500, 'message': "error:ER_BAD_NULL_ERROR: Column 'beginAt' cannot be null"}

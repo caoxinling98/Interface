@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bc62d33-2b41-477b-8150-81bf747db359" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2061584732">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.131" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.182" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="40" />
+          <entry key="py" value="53" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="Python" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="py" value="5967" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="5967" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/hash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding>
+                <marker date="1586742553206" expanded="true" signature="314:319" ph="..." />
+                <marker date="1586742553206" expanded="true" signature="473:532" ph="..." />
+                <marker date="1586742553206" expanded="true" signature="645:650" ph="..." />
+                <marker date="1586742553206" expanded="true" signature="935:940" ph="..." />
+                <marker date="1586742553206" expanded="true" signature="1202:1207" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/user/test_user_study.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1825">
+              <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+                <marker date="1586765056038" expanded="true" signature="189:190" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/Consts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/httpUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1586677001140" expanded="true" signature="101:106" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/sys/test_sys_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/testcase/user/login.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_login.py" />
+        <option value="$PROJECT_DIR$/common/commonData.py" />
+        <option value="$PROJECT_DIR$/testcase/sys/test_sys_login.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_trends.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_courseRole.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_myCourses.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_recentLesson.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_detail.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_modules.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_chapters.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_chapterDetail.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_xiaojieDetail.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_recordStudyTime.py" />
+        <option value="$PROJECT_DIR$/common/consts.py" />
+        <option value="$PROJECT_DIR$/common/Assert.py" />
+        <option value="$PROJECT_DIR$/util/hash.py" />
+        <option value="$PROJECT_DIR$/common/Consts.py" />
+        <option value="$PROJECT_DIR$/util/httpUtil.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/common/logger.py" />
+        <option value="$PROJECT_DIR$/testcase/user/test_user_study.py" />
+        <option value="$PROJECT_DIR$/run_main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="675" />
+    <option name="y" value="63" />
+    <option name="width" value="1640" />
+    <option name="height" value="945" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/InterfaceTest" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\Requests\testcase\user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_main">
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_user_study.Test_user_study.test_get_recordStudyTime" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_user_study.Test_user_study.test_get_recordStudyTime&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_user_study.Test_user_study.test_get_trends" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_user_study.Test_user_study.test_get_trends&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_user_study.Test_user_study.test_logout" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_user_study.Test_user_study.test_logout&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_user_study.Test_user_study.test_run" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_user_study.Test_user_study.test_run&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_get_recordStudyTime" />
+      <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_get_trends" />
+      <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_run" />
+      <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_logout" />
+      <item itemvalue="Python.run_main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_get_recordStudyTime" />
+        <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_logout" />
+        <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_run" />
+        <item itemvalue="Python tests.pytest for test_user_study.Test_user_study.test_get_trends" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bc62d33-2b41-477b-8150-81bf747db359" name="Default Changelist" comment="" />
+      <created>1586401981465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586401981465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_get_trends - 2020.04.12 at 16h 07m 26s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_get_trends" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_get_trends - 2020.04.12 at 16h 10m 42s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_get_trends" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_get_trends - 2020.04.12 at 16h 12m 32s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_get_trends" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_run - 2020.04.12 at 16h 27m 53s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_run" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_logout - 2020.04.12 at 16h 37m 05s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_logout" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_logout - 2020.04.12 at 16h 39m 19s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_logout" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_get_recordStudyTime - 2020.04.13 at 15h 36m 46s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_get_recordStudyTime" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_get_recordStudyTime - 2020.04.13 at 15h 37m 10s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_get_recordStudyTime" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_get_recordStudyTime - 2020.04.13 at 16h 04m 04s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_get_recordStudyTime" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_user_study_Test_user_study_test_get_recordStudyTime - 2020.04.13 at 16h 04m 16s.xml">
+      <configuration name="pytest for test_user_study.Test_user_study.test_get_recordStudyTime" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17773438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32855093" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50284094" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/logs/202004101314.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101320.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101323.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101333.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101335.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101339.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101349.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101352.log" />
+    <entry file="file://$PROJECT_DIR$/logs/202004101358.log" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_modules.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_trends.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_myCourses.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_recentLesson.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_courseRole.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_detail.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_chapters.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_chapterDetail.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_xiaojieDetail.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_recordStudyTime.py" />
+    <entry file="file://$PROJECT_DIR$/logs/202004102213.log" />
+    <entry file="file://$PROJECT_DIR$/common/commonData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/allure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-11 2241.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-11 2249.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-11 2251.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-11 2252.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-11 2254.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-11 2256.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 15-21.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 15-22.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 15-28.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 15-33.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 15-37.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 15-38.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 16-14.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 16-27.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 16-37.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-12 16-39.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/Assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-13 09-55.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="970">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2020-04-13 09-53.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="10" column="821" selection-start-line="10" selection-start-column="821" selection-end-line="10" selection-end-column="821" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/hash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <marker date="1586742553206" expanded="true" signature="314:319" ph="..." />
+            <marker date="1586742553206" expanded="true" signature="473:532" ph="..." />
+            <marker date="1586742553206" expanded="true" signature="645:650" ph="..." />
+            <marker date="1586742553206" expanded="true" signature="935:940" ph="..." />
+            <marker date="1586742553206" expanded="true" signature="1202:1207" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/user/test_user_study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1586765056038" expanded="true" signature="189:190" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/Consts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/httpUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1586677001140" expanded="true" signature="101:106" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/sys/test_sys_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
